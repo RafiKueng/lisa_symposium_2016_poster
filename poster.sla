@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.1">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="1683.77952755906" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="300000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="FooterBG" CMYK="#ffff0000"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" BCOLOR="None" BSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Droid Sans Regular" FONTSIZE="36" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="Title" CPARENT="Default Character Style" FONTSIZE="80" FCOLOR="White"/>
+        <CHARSTYLE CNAME="SubTitle" CPARENT="Default Character Style" FONTSIZE="60" FCOLOR="White"/>
+        <CHARSTYLE CNAME="BigText" CPARENT="Default Character Style" FONTSIZE="36"/>
+        <CHARSTYLE CNAME="SmallText" CPARENT="Default Character Style" FONTSIZE="24"/>
+        <CHARSTYLE CNAME="VerySmallText" CPARENT="Default Character Style" FONTSIZE="12"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="4.4581755059795e+252" markOffset="1.72873661029762e-306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="1" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Droid Sans Bold"/>
+            <Fonts Name="Droid Sans Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="1683.77952755906" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="1683.77952755906" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="14.1732 97.4994 113.386 595.276 907.087 921.26 935.433 1077.17 1091.34 1176.38 765.354 425.197 396.85 283.465 255.118 " HorizontalGuides="1559.06 1615.75 1530.71 1644.09 1502.36 822.047 85.0394 141.732 226.772 311.811 283.465 566.929 765.354 793.701 1474.02 1388.98 1360.63 1303.94 1332.28 1374.91 1457.82 737.008 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100.50062992126" YPOS="20.5012598425197" OwnPage="0" ItemID="111699296" PTYPE="6" WIDTH="1189.55118110236" HEIGHT="310.811023622047" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="FooterBG" PCOLOR2="Black" PLINEART="1" path="M0 0 L1189.55 0 L1189.55 310.811 L0 310.811 L0 0 Z" copath="M0 0 L1189.55 0 L1189.55 310.811 L0 310.811 L0 0 Z" gXpos="100.50062992126" gYpos="20.5012598425197" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="100.50062992126" YPOS="1522.86346456693" OwnPage="0" ItemID="98313344" PTYPE="6" WIDTH="1189.55118110236" HEIGHT="181.363808160344" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" PLINEART="1" path="M0 0 L1189.55 0 L1189.55 181.364 L0 181.364 L0 0 Z" copath="M0 0 L1189.55 0 L1189.55 181.364 L0 181.364 L0 0 Z" gXpos="100.50062992126" gYpos="1522.86346456693" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="331.812283464567" OwnPage="0" ItemID="81764016" PTYPE="2" WIDTH="1190.55118110236" HEIGHT="226.771653543307" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.241182266009852" LOCALSCY="0.241182266009852" LOCALX="-9.04634581105218" LOCALY="-726.714090885697" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="zurich_pano.jpg" PRFILE="Embedded Adobe RGB (1998)" EPROF="Embedded Adobe RGB (1998)" IRENDER="0" path="M0 0 L1190.55 0 L1190.55 226.772 L0 226.772 L0 0 Z" copath="M0 0 L1190.55 0 L1190.55 226.772 L0 226.772 L0 0 Z" gXpos="100.00062992126" gYpos="331.812283464567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="213.386456692913" YPOS="105.04062992126" OwnPage="0" ItemID="76939472" PTYPE="4" WIDTH="963.779527559055" HEIGHT="56.6929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L963.78 0 L963.78 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L963.78 0 L963.78 56.6929 L0 56.6929 L0 0 Z" gXpos="213.386456692913" gYpos="105.04062992126" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="SubTitle"/>
+                <ITEXT CPARENT="SubTitle" CH="11th International"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="213.386456692913" YPOS="167.757575757576" OwnPage="0" ItemID="76710144" PTYPE="4" WIDTH="963.779527559055" HEIGHT="79.015337628251" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L963.78 0 L963.78 79.0153 L0 79.0153 L0 0 Z" copath="M0 0 L963.78 0 L963.78 79.0153 L0 79.0153 L0 0 Z" gXpos="213.386456692913" gYpos="167.757575757576" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Title"/>
+                <ITEXT CPARENT="Title" CH="LISA Symposium"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="213.386456692913" YPOS="586.930393700787" OwnPage="0" ItemID="79424512" PTYPE="4" WIDTH="481.889763779528" HEIGHT="61.0896492483893" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L481.89 0 L481.89 61.0896 L0 61.0896 L0 0 Z" copath="M0 0 L481.89 0 L481.89 61.0896 L0 61.0896 L0 0 Z" gXpos="213.386456692913" gYpos="586.930393700787" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="BigText"/>
+                <ITEXT CPARENT="BigText" CH="5. – 9. September 2016"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="695.276220472441" YPOS="586.930393700787" OwnPage="0" ItemID="87085120" PTYPE="4" WIDTH="481.889763779528" HEIGHT="177.329346558953" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L481.89 0 L481.89 177.329 L0 177.329 L0 0 Z" copath="M0 0 L481.89 0 L481.89 177.329 L0 177.329 L0 0 Z" gXpos="695.276220472441" gYpos="586.930393700787" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" ALIGN="2" CPARENT="Default Character Style"/>
+                <ITEXT CPARENT="BigText" CH="Irchel Campus"/>
+                <para ALIGN="2"/>
+                <ITEXT CPARENT="BigText" CH="University of Zurich"/>
+                <para PARENT="Default Paragraph Style" ALIGN="2"/>
+                <ITEXT CPARENT="SmallText" CH="Winterthurerstrasse 190"/>
+                <para PARENT="Default Paragraph Style" ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="SmallText" CH="CH-8057 Zurich"/>
+                <para PARENT="Default Paragraph Style" ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="SmallText" CH="Switzerland"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="2" LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="213.386456692913" YPOS="813.702047244095" OwnPage="0" ItemID="88343536" PTYPE="4" WIDTH="651.968503937008" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L651.969 0 L651.969 510.236 L0 510.236 L0 0 Z" copath="M0 0 L651.969 0 L651.969 510.236 L0 510.236 L0 0 Z" gXpos="213.386456692913" gYpos="813.702047244095" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" CPARENT="Default Character Style"/>
+                <ITEXT CPARENT="Default Character Style" FONT="Droid Sans Bold" FONTSIZE="32" CH="Topics:"/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+                <ITEXT CPARENT="Default Character Style" FONTSIZE="32" CH="First results from LISA Pathfinder"/>
+                <breakline/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+                <ITEXT CPARENT="Default Character Style" FONTSIZE="32" CH="Further development of LISA"/>
+                <breakline/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+                <ITEXT CPARENT="Default Character Style" FONTSIZE="32" CH="Overview of ground based Gravitational Wave detectors"/>
+                <breakline/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+                <ITEXT CPARENT="Default Character Style" FONTSIZE="32" CH="Precision tests of General Relativity"/>
+                <breakline/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+                <ITEXT CPARENT="Default Character Style" FONTSIZE="32" CH="Joint eLISA and L3ST consortium meeting"/>
+                <para LINESPMode="0" LINESP="36" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="• " Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="865.354960629921" YPOS="813.702047244095" OwnPage="0" ItemID="81132656" PTYPE="4" WIDTH="141.732283464567" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L141.732 0 L141.732 510.236 L0 510.236 L0 0 Z" copath="M0 0 L141.732 0 L141.732 510.236 L0 510.236 L0 0 Z" gXpos="865.354960629921" gYpos="813.702047244095" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" FONTSIZE="16" CH="Science"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="16"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" FONTSIZE="16" CH="Advisory"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="16"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" FONTSIZE="16" CH="Committee"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="16"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Stanislav Babak"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Peter Bender"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Emanuele Berti"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Pierre Binetruy"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Chiara Caprini"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Monica Colpi"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" John Conklin"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Neil Cornish"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Curt J. Cutler"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Karsten Danzmann"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Domenico Giardini"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Gabriela Gonzalez"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Martin Hewitson"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Allan Hornstrup"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Oliver Jennrich"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Philippe Jetzer"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Paul McNamara"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Guido Mueller"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Gijs Nelemans"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Eric Plagnol"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Bernard Schutz"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Alberto Sesana"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" David Shoemaker"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Carlos F. Sopuerta"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Robin Stebbins"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Tim Sumner"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" James Ira Thorpe"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Stefano Vitale"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" Harry Ward"/>
+                <para ALIGN="2" LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH=" William Joseph Weber"/>
+                <para ALIGN="2" LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1035.4337007874" YPOS="813.702047244095" OwnPage="0" ItemID="95965552" PTYPE="4" WIDTH="141.732283464567" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L141.732 0 L141.732 510.236 L0 510.236 L0 0 Z" copath="M0 0 L141.732 0 L141.732 510.236 L0 510.236 L0 0 Z" gXpos="1035.4337007874" gYpos="813.702047244095" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" FONTSIZE="16" CH="Local"/>
+                <para LINESPMode="0" LINESP="16"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" FONTSIZE="16" CH="Organizing"/>
+                <para LINESPMode="0" LINESP="16"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" FONTSIZE="16" CH="Committee"/>
+                <para LINESPMode="0" LINESP="16"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" CH="Domenico Giardini"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" FONT="Droid Sans Bold" CH="Philippe Jetzer"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Ruxandra Bondarescu"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Yannick Bötzel"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Luigi Ferraioli"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Carmelina Genovese"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Elisabeth Läderach"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Rafael Küng"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Davor Mance"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Neda Meshksar"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Lionel Philippoz"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Jan Ten Pierick"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Andreas Schärer"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="VerySmallText" CH="Peter Zweifel"/>
+                <para LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="114.173858267717" YPOS="586.930393700787" OwnPage="0" ItemID="76919360" PTYPE="2" WIDTH="85.0393700787402" HEIGHT="85.0393700787402" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.207413097753025" LOCALSCY="0.207413097753025" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="event_qr.png" IRENDER="0" EMBEDDED="0" path="M0 0 L85.0394 0 L85.0394 85.0394 L0 85.0394 L0 0 Z" copath="M0 0 L85.0394 0 L85.0394 85.0394 L0 85.0394 L0 0 Z" gXpos="114.173858267717" gYpos="586.930393700787" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1191.33921259843" YPOS="586.930393700787" OwnPage="0" ItemID="85898320" PTYPE="2" WIDTH="85.0393700787402" HEIGHT="85.0393700787402" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.340157480314961" LOCALSCY="0.340157480314961" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="irchel_geo_qr.png" IRENDER="0" EMBEDDED="0" path="M0 0 L85.0394 0 L85.0394 85.0394 L0 85.0394 L0 0 Z" copath="M0 0 L85.0394 0 L85.0394 85.0394 L0 85.0394 L0 0 Z" gXpos="1191.33921259843" gYpos="586.930393700787" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="988.530303030303" YPOS="1579.05637795276" OwnPage="0" ItemID="99680704" PTYPE="2" WIDTH="188.635681221666" HEIGHT="56.6929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.18110236220473" LOCALSCY="1.18110236220473" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="logos/UZH_Logo_e_EPS/uzh_logo_e_neg.eps" IRENDER="0" EMBEDDED="0" path="M0 0 L188.636 0 L188.636 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L188.636 0 L188.636 56.6929 L0 56.6929 L0 0 Z" gXpos="988.530303030303" gYpos="1579.05637795276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="799.584294917681" YPOS="1579.05637795276" OwnPage="0" ItemID="94844768" PTYPE="2" WIDTH="184.581689334288" HEIGHT="56.6929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.833719314497454" LOCALSCY="0.833719314497454" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="logos/eth/eth_logo_pos.png" IRENDER="0" EMBEDDED="0" path="M0 0 L184.582 0 L184.582 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L184.582 0 L184.582 56.6929 L0 56.6929 L0 0 Z" gXpos="799.584294917681" gYpos="1579.05637795276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="681.276220472441" YPOS="1579.05637795276" OwnPage="0" ItemID="102388000" PTYPE="2" WIDTH="113.385826771653" HEIGHT="56.6929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.726832222895214" LOCALSCY="0.726832222895214" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="logos/paulicenter/pauli.png" IRENDER="0" EMBEDDED="0" path="M0 0 L113.386 0 L113.386 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L113.386 0 L113.386 56.6929 L0 56.6929 L0 0 Z" gXpos="681.276220472441" gYpos="1579.05637795276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="213.386456692913" YPOS="1550.70992125984" OwnPage="0" ItemID="104343568" PTYPE="2" WIDTH="113.385826771654" HEIGHT="113.385826771654" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.192833038727302" LOCALSCY="0.192833038727302" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="logos/lisa_pathfinder/lisapf_logo.png" IRENDER="0" EMBEDDED="0" path="M0 0 L113.386 0 L113.386 113.386 L0 113.386 L0 0 Z" copath="M0 0 L113.386 0 L113.386 113.386 L0 113.386 L0 0 Z" gXpos="213.386456692913" gYpos="1550.70992125984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="179.20838940587" YPOS="893.181818181818" OwnPage="0" ItemID="93158464" PTYPE="4" WIDTH="18.2916105941303" HEIGHT="430.756449534717" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18.2916 0 L18.2916 430.756 L0 430.756 L0 0 Z" copath="M0 0 L18.2916 0 L18.2916 430.756 L0 430.756 L0 0 Z" gXpos="179.20838940587" gYpos="893.181818181818" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" CPARENT="Default Character Style" FONTSIZE="32"/>
+                <ITEXT CPARENT="BigText" FONTSIZE="32" CH="•"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <ITEXT CPARENT="BigText" FONTSIZE="32" CH="•"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <ITEXT CPARENT="BigText" FONTSIZE="32" CH="•"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <ITEXT CPARENT="BigText" FONTSIZE="32" CH="•"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <para ALIGN="2" LINESPMode="0" LINESP="36"/>
+                <ITEXT CPARENT="BigText" FONTSIZE="32" CH="•"/>
+                <trail ALIGN="2" LINESPMode="0" LINESP="36"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1352.28472440945" OwnPage="0" ItemID="84964688" PTYPE="6" WIDTH="1190.55118110236" HEIGHT="170.07874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="FooterBG" PCOLOR2="Black" PLINEART="1" path="M0 0 L1190.55 0 L1190.55 170.079 L0 170.079 L0 0 Z" copath="M0 0 L1190.55 0 L1190.55 170.079 L0 170.079 L0 0 Z" gXpos="100.00062992126" gYpos="1352.28472440945" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="383.465196850394" YPOS="1394.90909090909" OwnPage="0" ItemID="96452544" PTYPE="4" WIDTH="807.874015748031" HEIGHT="82.9090909090908" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L807.874 0 L807.874 82.9091 L0 82.9091 L0 0 Z" copath="M0 0 L807.874 0 L807.874 82.9091 L0 82.9091 L0 0 Z" gXpos="383.465196850393" gYpos="1394.90909090909" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="40" CPARENT="BigText" FONTSIZE="40" FCOLOR="White"/>
+                <ITEXT FONTSIZE="40" FCOLOR="White" CH="more information and registartion:"/>
+                <para LINESPMode="0" LINESP="40"/>
+                <ITEXT CPARENT="BigText" FONTSIZE="40" FCOLOR="White" CH="http://tiny.uzh.ch/ys"/>
+                <trail LINESPMode="0" LINESP="40"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="241.732913385827" YPOS="1380.63118110236" OwnPage="0" ItemID="77373904" PTYPE="2" WIDTH="113.385826771654" HEIGHT="113.385826771654" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.390985609557426" LOCALSCY="0.390985609557426" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="homepage_qr.png" IRENDER="0" EMBEDDED="0" path="M0 0 L113.386 0 L113.386 113.386 L0 113.386 L0 0 Z" copath="M0 0 L113.386 0 L113.386 113.386 L0 113.386 L0 0 Z" gXpos="241.732913385827" gYpos="1380.63118110236" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
